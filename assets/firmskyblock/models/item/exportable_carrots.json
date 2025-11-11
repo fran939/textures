@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/exportable_carrots"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

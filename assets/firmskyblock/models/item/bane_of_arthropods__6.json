@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/bane_of_arthropods__6"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

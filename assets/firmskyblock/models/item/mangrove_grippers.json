@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/mangrove_grippers"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

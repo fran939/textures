@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "MYTHOS_HELMET",
+    "MYTHOS_CHESTPLATE",
+    "MYTHOS_LEGGINGS",
+    "MYTHOS_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:mythos"
+    }
+  ]
+}

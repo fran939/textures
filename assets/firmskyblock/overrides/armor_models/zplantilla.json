@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "_HELMET",
+    "_CHESTPLATE",
+    "R_LEGGINGS",
+    "_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:"
+    }
+  ]
+}

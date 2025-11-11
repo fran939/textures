@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/scorched_crab_stick"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

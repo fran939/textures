@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/luck_of_the_sea__6"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

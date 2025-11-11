@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ender_slayer__6"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

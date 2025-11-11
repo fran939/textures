@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/manaflux_power_orb"
+  },
+  "parent": "minecraft:item/handheld"
+}

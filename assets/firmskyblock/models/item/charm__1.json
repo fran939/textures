@@ -1,0 +1,13 @@
+{
+	"screen": [
+    "firmskyblock:always"
+  ],
+  "textures": {
+    "layer0": "cittofirmgenerated:item/charm__1"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item",
+  "predicate": {
+    "firmament:item": "minecraft:enchanted_book",
+    "firmament:display_name": "Charm"
+  }
+}

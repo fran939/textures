@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/pest_vest"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

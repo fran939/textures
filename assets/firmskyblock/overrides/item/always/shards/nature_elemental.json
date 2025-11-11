@@ -1,0 +1,11 @@
+{
+  "screen": "firmament:always",
+  "model": "cittofirmgenerated:ui/always/shards/nature_elemental",
+  "predicate": {
+    "firmament:item": "minecraft:player_head",
+    "firmament:lore": {
+  "equals": "Sourace: Grove Shard (C1)",
+  
+}
+  }
+}

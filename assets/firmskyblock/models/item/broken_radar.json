@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/broken_radar"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

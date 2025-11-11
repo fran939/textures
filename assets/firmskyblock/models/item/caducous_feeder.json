@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/caducous_feeder"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

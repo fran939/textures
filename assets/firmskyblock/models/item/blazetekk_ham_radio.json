@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/blazetekk_ham_radio"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

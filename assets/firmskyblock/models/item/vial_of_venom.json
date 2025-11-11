@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/vial_of_venom"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

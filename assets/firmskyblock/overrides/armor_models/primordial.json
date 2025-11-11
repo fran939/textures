@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "PRIMORDIAL_HELMET",
+    "PRIMORDIAL_CHESTPLATE",
+    "PRIMORDIAL_LEGGINGS",
+    "PRIMORDIAL_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:primordial"
+    }
+  ]
+}

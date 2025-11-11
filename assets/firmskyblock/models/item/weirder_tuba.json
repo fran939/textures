@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/weirder_tuba"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

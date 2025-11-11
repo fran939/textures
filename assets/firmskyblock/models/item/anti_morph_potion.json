@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/anti_morph_potion"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

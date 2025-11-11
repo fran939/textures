@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/silkrider_safety_belt"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

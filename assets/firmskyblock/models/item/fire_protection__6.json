@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/fire_protection__5"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

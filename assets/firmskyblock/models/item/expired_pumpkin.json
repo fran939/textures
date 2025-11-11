@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/expired_pumpkin"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

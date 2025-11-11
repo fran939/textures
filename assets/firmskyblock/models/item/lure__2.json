@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/lure__1"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

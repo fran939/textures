@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/spiked_hook__6"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

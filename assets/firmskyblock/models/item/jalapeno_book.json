@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/jalapeno_book"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

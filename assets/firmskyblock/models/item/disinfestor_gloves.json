@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/disinfector_gloves"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

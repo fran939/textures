@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/rift_necklace_outside"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

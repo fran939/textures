@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/soul_campfire_god_badge"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

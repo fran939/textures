@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/cretan_urn"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/hephaestus_shelmet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

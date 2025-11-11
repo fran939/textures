@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/respite__5"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

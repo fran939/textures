@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/luminous_bracelet"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

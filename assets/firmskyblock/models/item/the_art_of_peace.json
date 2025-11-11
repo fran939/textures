@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/the_art_of_peace"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

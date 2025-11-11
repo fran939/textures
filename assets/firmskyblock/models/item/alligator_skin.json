@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/alligator_skin"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

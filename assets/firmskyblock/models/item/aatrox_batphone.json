@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/aatrox_batphone"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

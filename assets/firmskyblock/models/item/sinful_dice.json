@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/sinful_dice"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/ensnared_snail"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

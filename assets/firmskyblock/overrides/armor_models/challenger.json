@@ -1,0 +1,13 @@
+{
+  "item_ids": [
+    "CHALLENGER_CHESTPLATE",
+    "CHALLENGER_HELMET",
+    "CHALLENGER_LEGGINGS",
+    "CHALLENGER_BOOTS"
+  ],
+  "layers": [
+    {
+      "identifier": "cittofirmgenerated:challenger"
+    }
+  ]
+}

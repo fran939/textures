@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/severed_hand"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

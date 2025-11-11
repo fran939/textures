@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/endstone_idol"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

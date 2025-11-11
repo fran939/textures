@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/party_gloves"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

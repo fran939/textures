@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/charm__5"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

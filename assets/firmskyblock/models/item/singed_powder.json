@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/signed_powder"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

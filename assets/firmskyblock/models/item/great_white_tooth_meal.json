@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/great_white_tooth_meal"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

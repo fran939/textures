@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/high_class_archfiend_dice"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

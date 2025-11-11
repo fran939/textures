@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/tarantula_fang"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/torn_cloth"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

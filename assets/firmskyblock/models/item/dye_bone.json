@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/dye_pure_blue"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

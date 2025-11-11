@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/shimmering_wool"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

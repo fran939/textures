@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/orb_of_energy"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

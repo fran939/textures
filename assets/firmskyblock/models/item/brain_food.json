@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/brain_food"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}

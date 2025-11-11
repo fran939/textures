@@ -1,0 +1,6 @@
+{
+  "textures": {
+    "layer0": "cittofirmgenerated:item/busted_belt_buckle"
+  },
+  "parent": "cittofirmgenerated:item/skyblock/item"
+}
